@@ -1,0 +1,15 @@
+2025-07-19 01:40:07.138990-07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+INSERT INTO students (name, age, email, grade) VALUES (?, ?, ?, ?) [42104-224]
+2025-07-19 01:40:07.141416-07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+INSERT INTO students (name, age, email, grade) VALUES (?, ?, ?, ?) [42104-224]
+2025-07-19 01:40:07.141817-07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "STUDENTS" not found (this database is empty); SQL statement:
+INSERT INTO students (name, age, email, grade) VALUES (?, ?, ?, ?) [42104-224]
+2025-07-19 01:41:47.518425-07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2025-07-19 01:41:47.520863-07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2025-07-19 01:41:47.521417-07:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
